@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @dreamwisp
-- 👀 I’m interested in web development & machine learning
-- 🌱 I’m currently surviving my first year of university, my favorite class so far has been CSCI-B 365 which was the beggining of my journey to learn different machine learning techniques.
-- ⚡ Fun fact: I wish I was a better designer
+Welcome to my github page! My name is Zasha Benites and I'm a first year computer science student who loves diving into new projects and learning along the way. I have a whiteboard in my dorm where I tend to design workflows or write random project ideas I get. I hope most of those projects get to make it here.
+
 
 <!---
 dreamwisp/dreamwisp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
